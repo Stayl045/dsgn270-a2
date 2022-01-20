@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# SAIT-WDP-Stephan-Taylor-DSGN-a2-Convention-Treasure-Hunt #
 
-You can use the [editor on GitHub](https://github.com/Stayl045/dsgn270-a2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Part 1: Navigation Breakdown ##
+### Screencap of Navigation of Harry Rosen ###
+![screencap](https://github.com/Stayl045/dsgn270-a2/blob/3ac8fd09f2d21361eac13e3c94ee52d64cd989a8/screencap-of-navigation.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+### Harry Rosen Summary ###
+Harry Rosen is a website that specializes in the buy/sell of luxury men's clothing which includes different brands across the globe. The clientele (audience) of Harry Rosen is typically those of higher income. Clientele who purchase from Harry Rosen get the benefit of high quality brand clothing.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Part 2: Call-to-Action Critique ##
 
-- Bulleted
-- List
+### **Call-To-Action-Critique** ###
+![CalltoActionImage](https://github.com/Stayl045/dsgn270-a2/blob/b81782a395a4a04852f6c39a220d6bfbd5159065/Harry%20Rosen%20call%20to%20action.png)
 
-1. Numbered
-2. List
+On the onset, Harry Rosen’s call-to-action is clearly the biggest image on the page that they’re drawing users attention towards. That would be their **“winter sale, up to 50% off”**, which includes a big “shop now” button. This seems to establish a strong visual hierarchy that is pleasing to the eye. This effect is accomplished by the scale of the image being larger than the others. In addition, the bold red on the image contrasts the white of the button/font and negative space around the font and image itself again draws the eye to the call-to-action. Furthermore, the typography used conveys their target audience (wealthy/older). 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stayl045/dsgn270-a2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**For example:**
+-	The font that is used may seem simple in nature, however, it connects to the target audience.
+-	The font are easy read and contrasts with the background nicely. 
+-	The font of **“up to 50% off”** is the largest of the surrounding fonts. Again, the intended effect is to draw the users eye to that.
+-	The designer specifically choose a red background over an image of clothing to let the users curiosity click the “shop now” button.
